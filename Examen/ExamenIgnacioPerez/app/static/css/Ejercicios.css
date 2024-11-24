@@ -1,0 +1,22 @@
+body{
+font-size:20px;
+}
+form{
+text-align:center;
+}
+label{
+color:Gray;
+}
+input{
+width:60%;
+height:20px;
+}
+
+#submit {
+color:white;
+background-color:#3398ff;
+height:40px;
+width:100px;
+border-radius:3px;
+border:none;
+}
